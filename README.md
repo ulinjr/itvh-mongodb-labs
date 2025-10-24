@@ -1,2 +1,2 @@
 # itvh-mongodb-labs
-Repositorio de Labs para trabajar con bases de datos MongoDB
+Repositorio de Labs para acceso a bases de datos MongoDB, usando Python y Notebooks
