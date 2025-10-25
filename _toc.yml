@@ -1,7 +1,0 @@
-format: jb-book
-root: labs/intro
-chapters:
-  - file: labs/lab01
-    sections:
-      - file: labs/lab01_ej1
-  - file: labs/recursos
